@@ -6,7 +6,7 @@ html,body,div,span,p,h1,h2,h3,h4,h5,h6,em,img,strong,sub,sup,tt,dd,dl,dt,form,la
 input,select,textarea,img{vertical-align:middle;}
 img{ border:0;}
 ul,li{list-style-type:none;}
-a:link,a:visited{text-decoration:none; color:#343434;}
+a:link,a:visited{text-decoration:none; color:#fff;}
 a:hover{text-decoration:underline; color:#0F6BD0;}
 .overhide{overflow:hidden;text-indent:-100em;}
 /*位置属性*/
